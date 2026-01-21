@@ -13,3 +13,5 @@
 - Стрельба и боезапас
 - Интерфейс игрока
 - Визуальные эффекты
+![Описание картинки](![WhatsApp Image 2026-01-21 at 21 26 15](https://github.com/user-attachments/assets/7da25b13-7b95-4f4d-9da9-8f85faf1feca)
+)
